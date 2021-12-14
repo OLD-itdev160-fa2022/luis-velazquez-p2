@@ -1,4 +1,4 @@
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+﻿//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 ▒█▀▀▀█ ▀█▀ ▒█▀▄▀█ ▒█▀▀█ ▒█░░░ ▒█▀▀▀ 　 ▒█▀▀█ ▒█░▒█ ▒█▀▀▄ ▒█▀▀█ ▒█▀▀▀ ▀▀█▀▀ 　 ▀▀█▀▀ ▒█▀▀▀█ ▒█▀▀▀█ ▒█░░░ 
 ░▀▀▀▄▄ ▒█░ ▒█▒█▒█ ▒█▄▄█ ▒█░░░ ▒█▀▀▀ 　 ▒█▀▀▄ ▒█░▒█ ▒█░▒█ ▒█░▄▄ ▒█▀▀▀ ░▒█░░ 　 ░▒█░░ ▒█░░▒█ ▒█░░▒█ ▒█░░░ 
@@ -6,11 +6,10 @@
 
 -------------PROJECT DESCRIPTION:--------------------------------------------------------------------------------------------------------------
 
-Hello, thank you for checking out my "Simple Budget Tool". With this tool, provide an item's name, price, and quantity, 
-and it will add everything up and give you a total. It is helpful for keeping track of large lists and returning 
-an accurate figure accurately. 
-Did you make a mistake while inputting data? No worries, you can easily adjust the item quantity, or simply refresh the page to 
-start over. 
+Hello, thank you for checking out my "Simple Budget Tool". With this tool, you can provide an item's name, price, and quantity, 
+and it will sum up and provide a total. It is helpful for keeping track of large item lists and returning an accurate figure in a short amount of 
+time.
+Did you make a mistake while inputting data? No worries, you can easily adjust the item quantity and the total figure will be adjusted immediately.
 
 Thanks,
 Luis Velazquez
